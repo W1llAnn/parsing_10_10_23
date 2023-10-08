@@ -1,0 +1,46 @@
+Инженер данных
+Data engineer
+
+Аналитик данных
+Data analyst
+
+Data scientist
+ML Engineer
+ML Инженер
+
+Системный аналитик
+System analyst
+
+Бизнес аналитик
+Business analyst
+
+Менеджер проектов
+Project manager
+
+Менеджер продуктов
+Product manager
+
+Фронтенд разработчик
+Frontend developer
+Frontend разработчик
+
+Бэк разработчик
+Backend developer
+
+Full-stack разработчик
+Full-stack developer
+
+Цифровой маркетолог
+digital marketing specialist
+
+Веб дизайнер
+Web designer
+
+UI/UX специалист
+UI/UX specialist
+
+Тестировщик
+software tester
+
+Инженер по тестированию
+QA engineer
